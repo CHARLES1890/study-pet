@@ -1,0 +1,8 @@
+<WixLocalization Culture="zh-cn" Codepage="936" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+  <String Id="TauriLanguage">2052</String>
+  <String Id="TauriCodepage">936</String>
+  <String Id="LaunchApp">启动 伴学桌宠</String>
+  <String Id="DowngradeErrorMessage">已安装更新版本的 伴学桌宠。</String>
+  <String Id="PathEnvVarFeature">将 伴学桌宠 可执行文件的安装位置添加到 PATH 系统环境变量，以便从任意位置调用。</String>
+  <String Id="InstallAppFeature">安装 伴学桌宠。</String>
+</WixLocalization>
